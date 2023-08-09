@@ -1,5 +1,5 @@
 # Turtlesim_project
-Turtlesim_project use 3 nodes:
+Nodes:
 
 1. The turtlesim_node from the turtlesim package
 2. Turtle_controller node to control the turtle (named “turtle1”) which is already existing in the turtlesim_node
